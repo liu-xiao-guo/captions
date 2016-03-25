@@ -1,0 +1,17 @@
+{
+    "name": "captions.liu-xiao-guo",
+    "description": "description of captions",
+    "architecture": "all",
+    "title": "captions",
+    "hooks": {
+        "captions": {
+            "apparmor": "captions.apparmor",
+            "desktop":  "captions.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+

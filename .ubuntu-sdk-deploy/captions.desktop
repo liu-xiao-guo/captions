@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=captions
+Exec=./qtc_device_debughelper.py app "qmlscene $@ Main.qml"
+Icon=captions.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

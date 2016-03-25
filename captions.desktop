@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=captions
+Exec=qmlscene $@ Main.qml
+Icon=captions.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
